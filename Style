@@ -9,6 +9,6 @@
     width: 200px;
 }
 
-body.homepage .widget {
-    background: white;
+body {
+    background-color: purple;
 }
