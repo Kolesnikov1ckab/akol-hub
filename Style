@@ -1,0 +1,14 @@
+.widget {
+    background: yellow;
+    border: 1px solid black;
+    color: black;
+    width: 50%;
+}
+
+#sidebar .widget {
+    width: 200px;
+}
+
+body {
+    background-color: purple;
+}
